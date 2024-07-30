@@ -25,6 +25,6 @@ my_bool = False
 
 # Imprimir terminal de texto: "Hola Python"
 
-print ("Hola Python de maravilla ")
+print ("Hola Python")
 
 print(type(my_int))
